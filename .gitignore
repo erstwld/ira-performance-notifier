@@ -175,3 +175,10 @@ cython_debug/
 
 # IDE
 .idea
+
+# Terraform
+.terraform*
+terraform*
+
+# Zipped Packaged
+*.zip
